@@ -1,7 +1,7 @@
 import { eq, and, desc, sql, inArray, isNull } from 'drizzle-orm'
 import { post, user, vote } from '#layers/feedlog/server/db/schemas'
 
-const ROADMAP_STATUSES = ['planned', 'in_progress', 'done'] as const
+const ROADMAP_STATUSES = ['planned', 'in_progress', 'qa', 'done'] as const
 const PAGE_SIZE = 10
 
 interface RoadmapColumn {

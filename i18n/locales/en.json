@@ -28,6 +28,7 @@
     "open": "Open",
     "planned": "Planned",
     "in_progress": "In Progress",
+    "qa": "QA",
     "done": "Completed"
   },
   "time": {

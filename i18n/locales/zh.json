@@ -28,6 +28,7 @@
     "open": "开放",
     "planned": "计划中",
     "in_progress": "进行中",
+    "qa": "QA",
     "done": "已完成"
   },
   "time": {
